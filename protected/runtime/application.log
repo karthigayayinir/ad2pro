@@ -1,0 +1,145 @@
+2016/07/04 20:50:57 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:57 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:57 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:57 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (32)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/html/ad2pro/protected/views/layouts/column1.php (2)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (32)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:57 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/ad2pro/protected/views/layouts/main.php (35)
+in /var/www/html/ad2pro/protected/views/layouts/column1.php (6)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (32)
+2016/07/04 20:50:57 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/ad2pro/protected/views/layouts/main.php (35)
+in /var/www/html/ad2pro/protected/views/layouts/column1.php (6)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (32)
+2016/07/04 20:50:57 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (32)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (99)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/html/ad2pro/protected/views/site/login.php (18)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (99)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/html/ad2pro/protected/views/site/login.php (30)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (99)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/html/ad2pro/protected/views/site/login.php (52)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (99)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/ad2pro/protected/views/layouts/main.php (35)
+in /var/www/html/ad2pro/protected/views/layouts/column1.php (6)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (99)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/ad2pro/protected/views/layouts/main.php (35)
+in /var/www/html/ad2pro/protected/views/layouts/column1.php (6)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (99)
+2016/07/04 20:50:59 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (99)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/ad2pro/protected/models/LoginForm.php (71)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (94)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/ad2pro/protected/models/LoginForm.php (71)
+in /var/www/html/ad2pro/protected/controllers/SiteController.php (94)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.web.filters.CFilterChain] Running filter ProductInventoryController.filteraccessControl()
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "user" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "session" application component
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "db" application component
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (144)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (144)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `product`
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (144)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SHOW FULL COLUMNS FROM `product`)
+2016/07/04 20:51:01 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SHOW FULL COLUMNS FROM `product`)
+2016/07/04 20:51:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `product`
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (144)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SHOW CREATE TABLE `product`)
+2016/07/04 20:51:01 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SHOW CREATE TABLE `product`)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "themeManager" application component
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (15)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/html/ad2pro/themes/classic/views/productInventory/_search.php (11)
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (39)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "messages" application component
+in /var/www/html/ad2pro/themes/classic/views/productInventory/_search.php (37)
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (39)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/html/ad2pro/themes/classic/views/productInventory/_search.php (27)
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (39)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+2016/07/04 20:51:01 [trace] [system.db.ar.CActiveRecord] Product.count()
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (44)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `product` `t`
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (44)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT COUNT(*) FROM `product` `t`)
+2016/07/04 20:51:01 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT COUNT(*) FROM `product` `t`)
+2016/07/04 20:51:01 [trace] [system.db.ar.CActiveRecord] Product.findAll()
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (44)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `product` `t` LIMIT 10
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (44)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [profile] [system.db.CDbCommand.query] begin:system.db.CDbCommand.query(SELECT * FROM `product` `t` LIMIT 10)
+2016/07/04 20:51:01 [profile] [system.db.CDbCommand.query] end:system.db.CDbCommand.query(SELECT * FROM `product` `t` LIMIT 10)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (44)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+in /var/www/html/ad2pro/index.php (13)
+2016/07/04 20:51:01 [trace] [system.CModule] Loading "format" application component
+in /var/www/html/ad2pro/themes/classic/views/productInventory/admin.php (44)
+in /var/www/html/ad2pro/protected/controllers/ProductInventoryController.php (150)
+in /var/www/html/ad2pro/index.php (13)
